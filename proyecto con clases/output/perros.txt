@@ -1,0 +1,18 @@
+ID: 1
+Nombre: fox
+Peso: 34
+Color: fet
+Fecha de Entrada: 68
+Fecha de Salida: y78
+Estado: bueno
+ID del Adoptante: 11
+------------------------------
+ID: 2
+Nombre: max
+Peso: 32
+Color: nedj
+Fecha de Entrada: 32
+Fecha de Salida: 23
+Estado: bueno
+ID del Adoptante: 22
+------------------------------

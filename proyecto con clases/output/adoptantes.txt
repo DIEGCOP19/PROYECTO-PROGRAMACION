@@ -1,0 +1,16 @@
+ID: 11
+Edad: 23
+Nombre Completo: facud
+Telefono: 2313123
+Direccion: avxe
+Correo: wqdqwe@
+Experiencia con mascotas: Si
+------------------------------
+ID: 22
+Edad: 324
+Nombre Completo: wedifew
+Telefono: 234324
+Direccion: av.lin
+Correo: wqdwq@
+Experiencia con mascotas: No
+------------------------------
